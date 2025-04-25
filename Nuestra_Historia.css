@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+#whatsapp-icon{
+    position: fixed;
+    width: 200px;
+    height: 100px;
+    top: 880px;
+    left: 1750px;
+    font-size: 40px;
+    color:lightgreen
+}
+
+ul{
+    position: fixed;
+    color: white;
+    background-color: #e4002b;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    font-size: 18px;
+    border-radius: 5px;
+    margin: auto;
+    width: 100%;
+    font-family: "Roboto";
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+li{
+    padding: 20px 50px 20px 50px;
+}
+
+li:hover{
+    background-color: gold ;
+    border-radius: 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+section{
+    width: 700px;
+    box-shadow: 10px 10px 10px rgba(21 , 16, 8, 0.2);
+    margin: auto;
+    background-color: white;
+    padding: 20px 5px 20px 5px;
+
+}
+
+.nombre{
+    text-align: center;
+    font-family: "Great Vibes";
+    font-size: 50px;
+    color:#e4002b;
+    padding: 30px;
+    margin-top: 10px;
+}
+
+img{
+    width: 20%;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px rgba(21 , 16, 8, 0.6);
+    text-align: center;
+    border: 5px solid red;
+    margin: 30px 0px -10px 0px;
+
+}
+
+p{
+    text-align: justify;
+    font-family: "Roboto";
+    
+}
+
+.fundador{
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-family: "Roboto";
+
+}
+
+body{
+    margin-top: 150px;
+
+    text-align: center;
+    /*box-sizing: border-box;*/
+    border-radius: 10px;
+    background-color: #fff9f2;
+    font-family: "Roboto";
+}
+
+*{
+    top: 100px;
+    left: 50px;
+    border-radius: 10px;
+}
+
+*{
+    top:0px;
+    left:0px;
+}
